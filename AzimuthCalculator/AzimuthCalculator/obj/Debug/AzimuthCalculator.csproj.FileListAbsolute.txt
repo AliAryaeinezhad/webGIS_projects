@@ -1,0 +1,9 @@
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\1\AzimuthCalculator\AzimuthCalculator\bin\Debug\AzimuthCalculator.exe.config
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\1\AzimuthCalculator\AzimuthCalculator\bin\Debug\AzimuthCalculator.exe
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\1\AzimuthCalculator\AzimuthCalculator\bin\Debug\AzimuthCalculator.pdb
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\1\AzimuthCalculator\AzimuthCalculator\obj\Debug\AzimuthCalculator.csprojResolveAssemblyReference.cache
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\1\AzimuthCalculator\AzimuthCalculator\obj\Debug\AzimuthCalculator.azimuth.resources
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\1\AzimuthCalculator\AzimuthCalculator\obj\Debug\AzimuthCalculator.Properties.Resources.resources
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\1\AzimuthCalculator\AzimuthCalculator\obj\Debug\AzimuthCalculator.csproj.GenerateResource.Cache
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\1\AzimuthCalculator\AzimuthCalculator\obj\Debug\AzimuthCalculator.exe
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\1\AzimuthCalculator\AzimuthCalculator\obj\Debug\AzimuthCalculator.pdb
