@@ -1,0 +1,9 @@
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\2\CountMedia_In_HTMLFile\Media_Counter\Media_Counter\bin\Debug\Media_Counter.exe.config
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\2\CountMedia_In_HTMLFile\Media_Counter\Media_Counter\bin\Debug\Media_Counter.exe
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\2\CountMedia_In_HTMLFile\Media_Counter\Media_Counter\bin\Debug\Media_Counter.pdb
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\2\CountMedia_In_HTMLFile\Media_Counter\Media_Counter\obj\Debug\Media_Counter.csprojResolveAssemblyReference.cache
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\2\CountMedia_In_HTMLFile\Media_Counter\Media_Counter\obj\Debug\Media_Counter.Properties.Resources.resources
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\2\CountMedia_In_HTMLFile\Media_Counter\Media_Counter\obj\Debug\Media_Counter.csproj.GenerateResource.Cache
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\2\CountMedia_In_HTMLFile\Media_Counter\Media_Counter\obj\Debug\Media_Counter.exe
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\2\CountMedia_In_HTMLFile\Media_Counter\Media_Counter\obj\Debug\Media_Counter.pdb
+U:\M.Sc\TERM #2 (4012)\GeoSpatial Web\Project\Project Git\2\CountMedia_In_HTMLFile\Media_Counter\Media_Counter\obj\Debug\Media_Counter.MediaCounter.resources
